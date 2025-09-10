@@ -1,0 +1,7 @@
+{
+    "exclude": ["out"],
+    "compilerOptions": {
+        "noImplicitReturns":true,
+        "outDir": "dist"
+    }
+}
